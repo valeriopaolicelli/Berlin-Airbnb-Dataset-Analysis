@@ -16,3 +16,6 @@ It concerns in:
     - Linear Regression
     - Decision Tree
     - Random Forest
+
+The project is developed in python, with the support of specific libraries like sklearn, pandas, matplotlib and numpy.
+The analysis is collected in a sort of report, inside the jupyter-notebook, that contains HTML, python and Latex code.
