@@ -5,14 +5,14 @@ Data science analysis of the Berlin Airbnb dataset of 2018
 
 It concerns in:
   - Data pre-processing and dataset explanation
-    -> Dimensionality reduction: PCA
-    -> General data pre-processing
+    - Dimensionality reduction: PCA
+    - General data pre-processing
   - Classification algorithms:
-    -> SVM
-    -> Decision Tree
-    -> Random Forest
-    -> KNN
+    - SVM
+    - Decision Tree
+    - Random Forest
+    - KNN
   - Regression algorithms:
-    -> Linear Regression
-    -> Decision Tree
-    -> Random Forest
+    - Linear Regression
+    - Decision Tree
+    - Random Forest
